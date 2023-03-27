@@ -1,0 +1,12 @@
+{
+  "resourceName": "sammyproject",
+  "policyUUID": "8276f745",
+  "bucketName": "amplifybucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
